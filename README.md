@@ -5,13 +5,13 @@ Welcome to the `Drug_Design` repository! This collection of Jupyter notebooks is
 ## Notebooks
 
 ### Diffdock on BCR-ABL Complex
-- **Description**: This notebook demonstrates the application of Diffdock to simulate docking processes between ligands and the BCR-ABL protein complex. Users can execute the entire docking procedure, analyze the results, and visualize interactions within the complex.
+-  This notebook demonstrates the application of Diffdock to simulate docking processes between ligands and the BCR-ABL protein complex. Users can execute the entire docking procedure, analyze the results, and visualize interactions within the complex.
 
 ### Comparative Study of Diffdock and GNINA
-- **Description**: Explore comparative analyses between Diffdock and GNINA on a specified protein. This notebook focuses on evaluating the results based on RMSD (Root Mean Square Deviation) metrics to assess the accuracy of predictions made by each model.
+-  This notebook explore comparative analyses between Diffdock and GNINA on a specified protein. This notebook focuses on evaluating the results based on RMSD (Root Mean Square Deviation) metrics to assess the accuracy of predictions made by each model.
 
 ### Understanding SDE with Valentin de Bortoli's Work
-- **Description**: Inspired by Valentin de Bortoli’s research, this notebook simplifies the concepts of scoring models and the stochastic differential equation (SDE) process. It includes a straightforward 2D example to illustrate the forward and backward processes in an accessible manner.
+- Inspired by Valentin de Bortoli’s research, this notebook simplifies the concepts of scoring models and the stochastic differential equation (SDE) process. It includes a straightforward 2D example to illustrate the forward and backward processes in an accessible manner.
 
 ### Diffusion Models on Fashion MNIST
-- **Description**: Investigate the capabilities of diffusion models through a practical example using the Fashion MNIST dataset. This notebook helps users understand the underlying principles of diffusion models and showcases their application in generating diverse fashion item images.
+- This notebook investigate the capabilities of diffusion models through a practical example using the Fashion MNIST dataset. This notebook helps users understand the underlying principles of diffusion models and showcases their application in generating diverse fashion item images.
